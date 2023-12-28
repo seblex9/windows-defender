@@ -50,11 +50,10 @@ This step-by-step guide walks through the configuration of Windows Defender for 
 - Explore advanced settings for a comprehensive firewall setup.
 - Modify inbound rules to enhance network protection.
 
----
-
 ## Conclusion
 
 This hands-on project provided a detailed walkthrough of setting up and configuring Windows Defender Antivirus and Firewall. By following these steps, I gained practical experience in threat detection, security updates, and network protection, strengthening my skills in Windows security configuration.
 
-## Contact
+---
+
 For further inquiries, professional networking, or in-depth discussions on network security and protocol analysis, please don't hesitate to connect with me on LinkedIn at linkedin.com/in/seblex/.
